@@ -1,4 +1,4 @@
-This repository contains all core code that @anio-sh projects will use.
+This repository contains all core code that [@anio-sh](https://github.com/anio-sh) tools are using.
 
 <!--
 
